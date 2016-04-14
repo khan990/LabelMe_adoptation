@@ -1,0 +1,6 @@
+c:\users\jasim\documents\visual studio 2015\Projects\CreateDataSet\CreateDataSet\bin\Debug\CreateDataSet.exe.config
+c:\users\jasim\documents\visual studio 2015\Projects\CreateDataSet\CreateDataSet\bin\Debug\CreateDataSet.exe
+c:\users\jasim\documents\visual studio 2015\Projects\CreateDataSet\CreateDataSet\bin\Debug\CreateDataSet.pdb
+c:\users\jasim\documents\visual studio 2015\Projects\CreateDataSet\CreateDataSet\obj\Debug\CreateDataSet.csprojResolveAssemblyReference.cache
+c:\users\jasim\documents\visual studio 2015\Projects\CreateDataSet\CreateDataSet\obj\Debug\CreateDataSet.exe
+c:\users\jasim\documents\visual studio 2015\Projects\CreateDataSet\CreateDataSet\obj\Debug\CreateDataSet.pdb
